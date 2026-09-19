@@ -1,2 +1,4 @@
 # odin-landing-page
-GitHub repo for the Landing Page project for CSS Foundations as part of The Odin Project
+This repository contains the first project of CSS Foundations, [The Odin Project](https://www.theodinproject.com/), *Landing Page*.
+## Skills Demonstrated
+## Learning Outcomes & Challenges
