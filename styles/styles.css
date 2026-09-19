@@ -1,0 +1,41 @@
+* {
+    font-family: roboto, sans-serif;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    padding-top: 12px;
+    padding-bottom: 48px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.header, .hero, footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+.link-list {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
+}
+
+.link {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
