@@ -138,3 +138,10 @@ h1 {
     border-radius: 12px;
     corner-shape: squircle;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 12px;
+}
