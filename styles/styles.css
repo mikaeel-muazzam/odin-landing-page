@@ -23,6 +23,7 @@
 
 .hero, .hero-right {
     display: flex;
+    gap: 64px;
 }
 
 .hero-right, .hero-left {
@@ -86,9 +87,9 @@ h1 {
 
 .info-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    gap: 24px;
+    gap: 48px;
 }
 
 .info-item {
