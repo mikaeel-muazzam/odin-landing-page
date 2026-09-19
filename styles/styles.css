@@ -6,6 +6,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin: 0px;
 }
 
 .header, .hero, .info-section, .quote-section, .call-to-action, .footer {
