@@ -70,3 +70,52 @@ h1 {
     color: #F9FAF8;
     font-weight: bold;
 }
+
+.info-section>h2 {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+}
+
+.info-item {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    color: grey;
+}
+
+.illustration {
+    border: 3px solid #3882F6;
+    border-radius: 12px;
+    corner-shape: squircle;
+    height: 180px;
+    width: 180px;
+}
+
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300px;
+    font-style: italic;
+}
+
+.thor {
+    text-align: right;
+    font-weight: bold;
+}
