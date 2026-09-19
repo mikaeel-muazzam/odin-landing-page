@@ -21,19 +21,27 @@
     font-size: 18px;
 }
 
-.hero, .hero-left {
+.hero, .hero-right {
     display: flex;
 }
 
-.hero-left, .hero-right {
+.hero-right, .hero-left {
     min-width: 50%;
 }
 
-.hero-left {
+.hero-right {
     justify-content: center;
     align-items: center;
     background-color: grey;
 }
+
+.hero-left>h1 {
+    margin-bottom: 0px;
+}
+
+ .hero-left>p {
+    margin-top: 0px;
+ }
 
 button, .hero-signup {
     background-color: #3882F6;
@@ -102,6 +110,7 @@ h1 {
 
 .quote-section {
     background-color: #E5E7EB;
+    margin-bottom: 48px;
 }
 
 .quote {
